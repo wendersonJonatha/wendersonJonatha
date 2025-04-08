@@ -1,74 +1,78 @@
-<h2 align="left">Hi 👋! My name is Wenderson and I'm a Back-End Developer in training, from Brazil 🇧🇷</h2>
-
-###
-
-<p align="left">Sou um desenvolvedor de software com experiência em Back-End, especializado em Java e Spring Boot. Com um forte compromisso com o aprendizado contínuo, estou sempre em busca de desafios que me permitam crescer e aplicar minhas habilidades em ambientes de desenvolvimento ágeis e inovadores.</p>
-
-###
-
-<h4 align="left">Estou focado em iniciar minha carreira como desenvolvedor e trabalhar em projetos que contribuam para minha evolução técnica. Tenho como meta aplicar minhas habilidades em Java e Spring Boot, sempre buscando novos aprendizados para agregar valor às equipes e projetos nos quais estou envolvido.</h4>
-
-###
-
-<p align="left"><strong>Habilidades:</strong><br><br>
-• 💻 Desenvolvimento de soluções escaláveis com Java e Spring Boot.<br>
-• 🗃️ Gerenciamento de dados e otimização de consultas SQL.<br>
-• 🌐 Criação e manutenção de APIs RESTful para integração entre sistemas.
-</p>
-
-###
-
-<p align="left"><strong>🧠 Soft Skills:</strong><br><br>
-• Aprendizado ativo;<br>
-• Comunicação;<br>
-• Proatividade;<br>
-• Criatividade;<br>
-• Otimismo;
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wendersonjonatha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendersonjonatha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:wendersonjonathadev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/wenderson-jonatha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:wendersonjonathadev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<h1 align="center">hey there 👋</h1>
 
 ###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+  Meu nome é Wenderson e sou um desenvolvedor de software com experiência em Back-End, especializado em Java e Spring Boot.<br><br>
+  - 🔭 Estou focado em iniciar minha carreira como desenvolvedor e trabalhar em projetos que contribuam para minha evolução técnica.<br>
+  - 📚 Atualmente estudo profundamente Java, Spring Boot e SQL, com foco em desenvolvimento de APIs RESTful.<br>
+  - ⚡ Gosto de aprender novas tecnologias, participar de hackathons e contribuir com soluções criativas para problemas do mundo real.
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+###
+
+<h3 align="left">🧠 Soft Skills</h3>
+
+###
+
+<p align="left">
+  • Aprendizado Ativo<br>
+  • Comunicação<br>
+  • Proatividade<br>
+  • Criatividade<br>
+  • Otimismo
+</p>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wendersonjonatha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendersonjonatha&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
 
